@@ -2,7 +2,7 @@
 /* eslint-disable no-template-curly-in-string */
 
 const config = {
-  productName: "PoE Live Search Manager",
+  productName: "PoE Live Search Manager-1",
   appId: "com.5k-mirrors.poe-sniper",
   files: [
     "app/index.html",
